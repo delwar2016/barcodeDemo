@@ -1,0 +1,11 @@
+{
+  "generator-fullstack-backbone": {
+    "appName": "BarcodeDemo",
+    "entryIndex": "index.html",
+    "serverRouteName": "api",
+    "includeSequelize": false,
+    "includeRequireJS": true,
+    "includeModernizr": false,
+    "cssUILib": "sassBootstrap"
+  }
+}

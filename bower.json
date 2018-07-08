@@ -1,0 +1,18 @@
+{
+    "name": "BarcodeDemo",
+    "version": "0.0.0",
+    "dependencies": {
+        "animate.css": "^3.3.0",
+        "jquery": "~2.1.0",
+        "lodash": "~2.4.1",
+        "backbone": "~1.1.0",
+        "backbone.localStorage": "~1.1.16",
+                "bootstrap-sass-official": "~3.3.1",
+                        "spin.js": "spinjs#^2.3.2",
+        "requirejs": "~2.1.10",
+        "requirejs-text": "~2.0.10",
+                "moment": "~2.11.1",
+        "mockjs": "^1.0.0"
+    },
+    "devDependencies": {}
+}
